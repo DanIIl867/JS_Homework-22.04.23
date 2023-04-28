@@ -35,4 +35,3 @@ const myGuideDog = new GuideDog("Buddy", 5);
 console.log(myGuideDog.getInfo()); // Output: "Name: Buddy, Age: 5, Is trained: true"
 console.log(Dog.legsCount); // Output: 4
 console.log(myGuideDog.bark()); // Output: "Woof!"
-
